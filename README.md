@@ -63,11 +63,9 @@ Vi-Notes is a **MERN Stack** application that helps verify the authenticity of w
 The report includes:
 
 * Confidence Score
-* Authentication Score
 * Average Typing Speed
 * Paste Detection Status
-* Writing Statistics
-* Personalized Feedback
+* Final Feedback
 
 <img width="958" height="450" alt="Image" src="https://github.com/user-attachments/assets/07e240af-2405-415b-9932-df0859f3958b" />
 
