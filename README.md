@@ -69,6 +69,8 @@ The report includes:
 * Writing Statistics
 * Personalized Feedback
 
+<img width="958" height="450" alt="Image" src="https://github.com/user-attachments/assets/07e240af-2405-415b-9932-df0859f3958b" />
+
 ## 📂 Project Structure
 
 ```text
