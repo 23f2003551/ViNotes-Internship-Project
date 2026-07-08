@@ -56,6 +56,8 @@ Vi-Notes is a **MERN Stack** application that helps verify the authenticity of w
    * Paste detection results
    * Overall feedback
 
+<img width="491" height="497" alt="Image" src="https://github.com/user-attachments/assets/4c809206-d9af-432c-9935-c70e852878e9" />
+
 ## 📊 Generated Report
 
 The report includes:
