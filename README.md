@@ -2,6 +2,8 @@
 
 Vi-Notes is a **MERN Stack** application that helps verify the authenticity of written content by analyzing how a document is written rather than just what is written. The platform monitors real-time writing behavior, detects pasted content, and generates an authenticity report based on various writing metrics.
 
+<img width="592" height="481" alt="Image" src="https://github.com/user-attachments/assets/408f5066-3cf2-4527-b14e-8f786a00ae53" />
+
 ## ✨ Features
 
 * User Authentication
