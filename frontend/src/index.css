@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #121212;
+  color: #F5F5F5;
+  font-family: Inter, sans-serif;
+}
+
+.center {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 20px;
+}
+
+.card {
+  background-color: #1E1E1E;
+  border: 1px solid #2B2B2B;
+  border-radius: 18px;
+  padding: 32px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  box-shadow: 0px 0px 20px rgba(255, 140, 66, 0.08);
+}
+
+.box {
+  width: 400px;
+  background-color: #1E1E1E;
+  border: 1px solid #2B2B2B;
+  border-radius: 18px;
+  padding: 24px;
+  box-shadow: 0px 0px 20px rgba(255, 140, 66, 0.08);
+}
+
+h1 {
+  margin: 0;
+  font-size: 42px;
+  color: #FF8C42;
+}
+
+h2 {
+  margin: 0;
+  font-size: 20px;
+  color: #A0A0A0;
+  font-weight: 400;
+}
+
+h3 {
+  margin: 0;
+  color: #FF8C42;
+}
+
+p {
+  margin: 0;
+  color: #D0D0D0;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+  color: #D0D0D0;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 14px;
+  background-color: #181818;
+  border: 1px solid #2B2B2B;
+  border-radius: 12px;
+  color: #F5F5F5;
+  font-size: 15px;
+  outline: none;
+  transition: 0.2s ease;
+  box-sizing: border-box;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #FF8C42;
+  box-shadow: 0px 0px 10px rgba(255, 140, 66, 0.25);
+}
+
+textarea {
+  min-height: 220px;
+  resize: none;
+}
+
+button {
+  background-color: #FF8C42;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 12px 20px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+button:hover {
+  background-color: #ff9f5c;
+  transform: translateY(-1px);
+}
+
+.buttonRow {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.noteText {
+  color: #A0A0A0;
+  font-size: 14px;
+  text-align: center;
+}
+
+.apply {
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  
+}
